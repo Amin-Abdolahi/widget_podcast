@@ -35,6 +35,5 @@ while True:
 
     else:
         print("Invalid command. Try again.")
-
-
-
+        continue
+    

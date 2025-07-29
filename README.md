@@ -40,7 +40,7 @@ Enter file address or URL:
 3- Volume
 4- Sleep timer
 Your choice: 3
-Enter a number between 1 - 100 for volume: 80
+Enter a number between 1 - 100 for volume: 90
 ```
 ## To Do (Future Improvements)
 - Add GUI (e.g. using tkinter or PyGObject)
