@@ -42,8 +42,7 @@ if __name__ == "__main__":
         print(f"Error occurred: {e}")
 
 while True:
-    
-    command = input(f"\n--{show_title(player, file_address)}--\n1- Stop\n2- Refresh\n3- Volume\n4- Sleep timer\n5- Skip\nYour choice: ")
+    command = input(f"\n\n1- Stop\n2- Refresh\n3- Volume\n4- Sleep timer\n5- Skip\nYour choice: ")
     if command == "1":
         player.stop()
         print("Playback stopped.")
